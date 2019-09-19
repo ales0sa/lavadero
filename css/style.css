@@ -30,10 +30,17 @@ body {
   flex: 1;
   background: linear-gradient(to right, #f50629 0%, #fd9d08 100%);
   transition: 1s;
-  background-image: url('fotolavado.jpg');
+  background-image: url('../fotolavado.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+.right-section2 {
+     position: fixed;
+     top: 50%;
+     left: 60%;
+     transform: translate(-50%, -50%);
+
 }
 .header > h1 {
   margin: 0;

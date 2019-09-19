@@ -15,7 +15,7 @@ header('Location: sturno.php');
   <meta charset="UTF-8">
   <title>LAVADERO | Turnos On-Line</title>
   <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
 
 
 <script src="js/jquery-3.4.1.min.js"></script>
